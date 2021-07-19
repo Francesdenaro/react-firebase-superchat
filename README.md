@@ -1,4 +1,4 @@
-# Link for the deployed app [here] (https://60f57f44c0d5dd143eaa5231--adoring-sinoussi-f5b136.netlify.app/)
+# Link for the deployed app [here](https://60f57f44c0d5dd143eaa5231--adoring-sinoussi-f5b136.netlify.app/)
 
 
 # Getting Started with Create React App
